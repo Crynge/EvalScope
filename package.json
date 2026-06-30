@@ -1,0 +1,17 @@
+{
+  "name": "evalscope",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "test": "vitest run",
+    "scan": "npx tsx src/scanner/scanner.ts",
+    "dev:api": "npx tsx src/api/server.ts",
+    "dev:web": "cd src/web && npm run dev"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0",
+    "vitest": "^1.6.0",
+    "tsx": "^4.7.0",
+    "@types/node": "^20.11.0"
+  }
+}
