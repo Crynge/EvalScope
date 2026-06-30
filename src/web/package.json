@@ -1,0 +1,47 @@
+{
+  "name": "evalscope",
+  "version": "0.1.0",
+  "private": true,
+  "description": "AI Agent Evaluation Platform",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [
+    "ai-evaluation",
+    "llm-evaluation",
+    "agent-evaluation",
+    "benchmarks",
+    "evals",
+    "awesome-list",
+    "ai-agents",
+    "llm-benchmarks",
+    "evaluation-framework",
+    "rl-environments",
+    "ai-safety",
+    "red-teaming",
+    "observability",
+    "prompt-engineering",
+    "machine-learning",
+    "deep-learning",
+    "nlp",
+    "reinforcement-learning",
+    "testing",
+    "evaluation-platform"
+  ],
+  "dependencies": {
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0",
+    "react-router-dom": "^6.22.0",
+    "lucide-react": "^0.400.0",
+    "recharts": "^2.12.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0",
+    "vite": "^5.2.0",
+    "@vitejs/plugin-react": "^4.2.0",
+    "gh-pages": "^6.1.0"
+  }
+}
