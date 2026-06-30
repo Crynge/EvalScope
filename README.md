@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="docs/assets/logo.svg" alt="EvalScope" width="600">
-  <h1>EvalScope</h1>
+  <img src="docs/assets/logo.svg" alt="EvalScope" width="260">
   <p><strong>Comprehensive AI Agent Evaluation Platform</strong></p>
   <p>Searchable benchmark catalog · Comparison matrices · Automated scanner · Interactive dashboards</p>
 
